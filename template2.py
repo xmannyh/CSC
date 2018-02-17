@@ -83,3 +83,4 @@ if lives == 0:
 else:
     print('You did it! Congratulations!')
     print('You are a very smart person.')
+    print('Thanks for playing!')
